@@ -1,0 +1,5 @@
+document Object ---> The document object represents the entire HTML document in a web page.
+It provides methods and properties to interact with the content of the document, such as accessing and modifying styles, handling events, and more.
+For example, you can use document.getElementById('someId') to retrieve a reference to an HTML element with a specific ID or document.createElement('div') to create a new HTML element.
+
+window object ---> The window object represents the browser window or tab that contains the document.It serves as the global object in the browser environment, and many global functions and properties are part of the window object. It provides methods and properties for managing the browser window, controlling navigation, setting timeouts/intervals, and handling events related to the window.
